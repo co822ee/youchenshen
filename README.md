@@ -6,13 +6,15 @@
 
 ## Education
 
-- Ph.D., Environmental Health  | Utrecht University | _Sept 2020-Present_
+- Ph.D., Environmental Health  | Utrecht University | _Sept 2020-Mar 2025_
 - M.S., Earth Sciences	| Utrecht University | _Sept 2018-Jul 2020_
 - B.S., Environmental & Agriculture Engineering | National Taiwan University | _Sept 2014-Jun 2018_
 
 ## Work Experience
 
-**Data Scientist/Analyst (Road traffic) @ Utrecht University (_Mar 2023  - Present_)**
+**Scientist Innovator @ TNO (_Apr 2025 - Present_)**
+
+**Data Scientist/Analyst (Road traffic) @ Utrecht University (_Mar 2023  - Mar 2025_)**
 
 EU-funded project—road traffic noise modelling
 - Analyze and visualize geospatial large data to uncover key insights using PostgreSQL and R, resulting in a 4% increase in road traffic modelling, contributing to urban environmental sustainability and decision-making for 5+ EU institutions
@@ -20,7 +22,7 @@ EU-funded project—road traffic noise modelling
 
 
 
-**Data Scientist/Analyst (Air quality) @ Utrecht University (_December 2020 - Present_)**
+**Data Scientist/Analyst (Air quality) @ Utrecht University (_December 2020 - Mar 2025_)**
 
 EU-funded project—air quality modelling
 -	Publish 3 peer-reviewed papers as first author with 36 citations, creating societal impact through developing data dashboards for visualizing [annual](https://youchenshenuu.users.earthengine.app/view/expanse-air-pollution-20-yr-maps) and [monthly](https://youchenshenuu.users.earthengine.app/view/expanse-monthly-average-air-pollution-maps) geospatial maps – data featured in [Guardian news](https://www.theguardian.com/environment/2023/sep/20/revealed-almost-everyone-in-europe-breathing-toxic-air)
