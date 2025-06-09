@@ -61,6 +61,7 @@ Used **R & Google Earth Engine (Javascript)** to train three machine learning al
 
 ![Air quality dynamic maps](/assets/img/no2.gif)
 
+_Europe-wide annual average ground-level NO2 concentrations (µg/m3) estimated by geographically- and temporally-weighted regression from 2000 to 2019, with a zoom-in on the Paris region_
 
 ![Air quality maps](/assets/img/air-quality-maps.jpg)
 
