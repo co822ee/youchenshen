@@ -1,6 +1,6 @@
 # Data Scientist/Analyst
 
-> With over 4 years of experience in using data to solve problems. I am passionate about collaborating with diverse teams to drive data-driven decisions and creating appealing data visualizations. I value self-learning with growth mindset and maintaining data integrity, striving to make a meaningful impact through innovative solutions. 
+> With over 4 years of experience in using geospatial data to solve environmental problems. I am passionate about collaborating with diverse teams to drive data-driven decisions and creating appealing data visualizations. I value self-learning with growth mindset and maintaining data integrity, striving to make a meaningful impact through innovative solutions. 
 
 #### Technical Skills: R, Python, PostgreSQL, Google Earth Engine (Javascript), Google Cloud Platform, Google BigQuery, Arcpy, ArcGIS, QGIS
 
@@ -17,8 +17,9 @@
 **Data Scientist/Analyst (Road traffic) @ Utrecht University (_Mar 2023  - Mar 2025_)**
 
 EU-funded project—road traffic noise modelling
-- Analyze and visualize geospatial large data to uncover key insights using PostgreSQL and R, resulting in a 4% increase in road traffic modelling, contributing to urban environmental sustainability and decision-making for 5+ EU institutions
-- Collaborate with 14 researchers from cross-functional teams, ranging from epidemiologists, model developers, software engineers, stakeholders, and statisticians
+- Analyzed and visualized large geospatial data to uncover key insights using PostgreSQL and R, resulting in a 4% increase in road traffic modelling, contributing to urban environmental sustainability and decision-making for 5+ EU institutions
+- Developed models for road traffic noise and estimated noise levels at 14 million building façade points using parallel computation on the Dutch national supercomputer (Snellius) with PostgreSQL and PostGIS, promoting its health-related studies
+- Collaborated with 14 researchers from cross-functional teams, ranging from epidemiologists, model developers, software engineers, stakeholders, and statisticians
 
 
 
@@ -27,6 +28,8 @@ EU-funded project—road traffic noise modelling
 EU-funded project—air quality modelling
 -	Publish 3 peer-reviewed papers as first author with 36 citations, creating societal impact through developing data dashboards for visualizing [annual](https://youchenshenuu.users.earthengine.app/view/expanse-air-pollution-20-yr-maps) and [monthly](https://youchenshenuu.users.earthengine.app/view/expanse-monthly-average-air-pollution-maps) geospatial maps – data featured in [Guardian news](https://www.theguardian.com/environment/2023/sep/20/revealed-almost-everyone-in-europe-breathing-toxic-air)
 -	Collaborate with 12 cross-functional researchers, ranging from software developer, environmental epidemiologists, project manager and model developers.
+-	Developed spatial models for estimating air pollution concentrations 
+- Utilized High Performance Computing (HPC) infrastructure to scale up modelling processes
 -	Wrangled and processed 1 TB Waze traffic jam data using BigQuery on Google Cloud Platform and created visualization with Looker Studio to make data-driven decisions with stakeholders
 -	Develop an anomaly detection algorithm that identifies outliers in time-series data with 75%+ validity for modelling purposes
 -	Enhance prediction accuracy by 19% in air quality models, providing actionable insights for stakeholders to promote a sustainable environment
@@ -36,7 +39,8 @@ EU-funded project—air quality modelling
 
 **Research Assistant @ Utrecht University (_Dec 2018 — Jun 2019_)**
 
--	Quantified and analyzed dynamics in mangrove in Suriname to develop sustainable coastal protection methods and to enhance biodiversity, communicating results in a peer-reviewed paper
+-	Quantified and analyzed dynamics in mangrove in Suriname using remote sensing imagery (Landsat)
+-	Communicated results in a scientific report and peer-reviewed paper to develop sustainable coastal protection methods and to enhance biodiversity
 
 ## Projects
 
