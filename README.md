@@ -59,6 +59,9 @@ EU-funded project—air quality modelling
 
 Used **R & Google Earth Engine (Javascript)** to train three machine learning algorithms (**Random Forests**, **Geographically Weighted Regression**, **Supervised Linear Regression**) which estimated particulate matters, nitrogen dioxide, and ozone concentrations based on over 150 geospatial variables and 20k monitoring observations across Europe over 20 years. We found that using spatially-varying linear regression would give higher predictive accuracy than nonlinear regression and spatially-fixed linear regression. The resulting air quality maps allow us to disentangle key interactions between the environment and human health.
 
+![Air quality dynamic maps](/assets/img/no2.gif)
+
+
 ![Air quality maps](/assets/img/air-quality-maps.jpg)
 
 _Europe-wide annual average ground-level NO2, O3, PM10, and PM2.5 concentrations (µg/m3) estimated by geographically- and temporally-weighted regression in 2000, 2005, 2010,2015, and 2019 (Base map source: Google Maps)_
