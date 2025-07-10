@@ -7,35 +7,37 @@
 ## Education
 
 - Ph.D., Environmental Health  | Utrecht University | _Sept 2020-Mar 2025_
-- M.S., Earth Sciences	| Utrecht University | _Sept 2018-Jul 2020_
+- M.S., Earth Surface and Water	| Utrecht University | _Sept 2018-Jul 2020_
 - B.S., Environmental & Agriculture Engineering | National Taiwan University | _Sept 2014-Jun 2018_
 
 ## Work Experience
 
 **Scientist Innovator @ TNO (_Apr 2025 - Present_)**
 
-**Data Scientist/Analyst (Road traffic) @ Utrecht University (_Mar 2023  - Mar 2025_)**
+**PhD candidate @ Utrecht University (_Sept 2020  - Mar 2025_)**
 
-EU-funded project—road traffic noise modelling
-- Analyzed and visualized large geospatial data to uncover key insights using PostgreSQL and R, resulting in a 4% increase in road traffic modelling, contributing to urban environmental sustainability and decision-making for 5+ EU institutions
-- Developed models for road traffic noise and estimated noise levels at 14 million building façade points using parallel computation on the Dutch national supercomputer (Snellius) with PostgreSQL and PostGIS, promoting its health-related studies
-- Collaborated with 14 researchers from cross-functional teams, ranging from epidemiologists, model developers, software engineers, stakeholders, and statisticians
+EU-funded project [EXPANSE](https://expanseproject.eu/) -- air quality modelling
 
-
-
-**Data Scientist/Analyst (Air quality) @ Utrecht University (_December 2020 - Mar 2025_)**
-
-EU-funded project—air quality modelling
 -	Publish 3 peer-reviewed papers as first author with 36 citations, creating societal impact through developing data dashboards for visualizing [annual](https://youchenshenuu.users.earthengine.app/view/expanse-air-pollution-20-yr-maps) and [monthly](https://youchenshenuu.users.earthengine.app/view/expanse-monthly-average-air-pollution-maps) geospatial maps – data featured in [Guardian news](https://www.theguardian.com/environment/2023/sep/20/revealed-almost-everyone-in-europe-breathing-toxic-air)
 -	Collaborate with 12 cross-functional researchers, ranging from software developer, environmental epidemiologists, project manager and model developers.
 -	Developed spatial models for estimating air pollution concentrations 
-- Utilized High Performance Computing (HPC) infrastructure to scale up modelling processes
 -	Wrangled and processed 1 TB Waze traffic jam data using BigQuery on Google Cloud Platform and created visualization with Looker Studio to make data-driven decisions with stakeholders
 -	Develop an anomaly detection algorithm that identifies outliers in time-series data with 75%+ validity for modelling purposes
 -	Enhance prediction accuracy by 19% in air quality models, providing actionable insights for stakeholders to promote a sustainable environment
 -	Present data visualization results to stakeholders at EU institutions to make actionable plans of effectively understanding health impacts of air quality and increasing public awareness through 5+ research projects, 2+ infographics, 10+ charts and 2+ data dashboards
 -	Create an automated data pipeline for web data scraping and processing via Python and R, reducing processing time of geospatial and remote sensing data by five-fold using cloud computation infrastructure (Google Earth Engine and Google Cloud Platform), allowing faster analysis and decision-making
 -	Share data insights with colleagues, resulting in 4 peer-reviewed papers (and 3 other papers in preparation)
+- Attended 6 international conferences, and are involved in 10+ peer-reviewed papers (with 4 as first-author) 
+- Mentored 5 master students with their graduate research projects, focusing on mobility-related health studies and environmental predictive modelling with machine learning
+
+
+EU-funded project [EXPANSE](https://expanseproject.eu/) -- road traffic noise modelling
+
+- Analyzed and visualized large geospatial data to uncover key insights using PostgreSQL and R, resulting in a 4% increase in road traffic modelling, contributing to urban environmental sustainability and decision-making for 5+ EU institutions
+- Predicted road traffic noise levels at 14 million building façade points via parallel computation on the Dutch national supercomputer (Snellius) with PostgreSQL
+- Collaborated with 14 researchers from cross-functional teams, ranging from epidemiologists, model developers, software engineers, stakeholders, and statisticians
+- Learnt and implemented domain-specific methods, demonstrating my capacity to adapt to new technical challenges
+
 
 **Research Assistant @ Utrecht University (_Dec 2018 — Jun 2019_)**
 
@@ -100,4 +102,4 @@ _Noise level estimates (in dBA) at the noisiest façade building points in the c
 7. Magni, M., Sutanudjaja, E.H., Shen, Y., Karssenberg, D., 2023. Global streamflow modelling using process-informed machine learning. J. Hydroinformatics 25, 1648–1666. [https://doi.org/10.2166/HYDRO.2023.217](https://doi.org/10.2166/HYDRO.2023.217)
 
 
-_View all publications on [Google Scholar](https://scholar.google.com/citations?user=0zgXCWwAAAAJ&hl=en)_
+_View all publications on [Google Scholar](https://scholar.google.com/citations?user=0zgXCWwAAAAJ&hl=en) or on [ResearchGate](https://www.researchgate.net/profile/Youchen-Shen-2)_
