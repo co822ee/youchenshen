@@ -12,7 +12,7 @@
 
 ## Work Experience
 
-**Scientist Innovator @ TNO (_Apr 2025 - Present_)**
+**Scientist Innovator @ TNO (_Apr 2025 - Mar 2026_)**
 
 **PhD candidate @ Utrecht University (_Sept 2020  - Mar 2025_)**
 
